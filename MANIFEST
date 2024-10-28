@@ -239,6 +239,9 @@ sql/bayes_pg.sql
 sql/decodeshorturl_mysql.sql
 sql/decodeshorturl_pg.sql
 sql/decodeshorturl_sqlite.sql
+sql/redirectors_mysql.sql
+sql/redirectors_pg.sql
+sql/redirectors_sqlite.sql
 sql/userpref_mysql.sql
 sql/userpref_pg.sql
 sql/txrep_mysql.sql
@@ -586,6 +589,7 @@ t/re_base_extraction.t
 t/recips.t
 t/recreate.t
 t/recursion.t
+t/redirectors.t
 t/regexp_named_capture.t
 t/regexp_valid.t
 t/relative_scores.t
