@@ -70,6 +70,7 @@ modify the parsed URI list prior to normal uri rules or the URIDNSBL plugin.
 package Mail::SpamAssassin::Plugin::Redirectors;
 
 use Mail::SpamAssassin::Plugin;
+use Mail::SpamAssassin::Util;
 use strict;
 use warnings;
 
