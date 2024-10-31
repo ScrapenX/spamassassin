@@ -99,8 +99,6 @@ def_welcomelist_auth *@visapayablesautomation.com
 def_welcomelist_auth *@visadpsmessage.com
 def_welcomelist_auth *@*.pinterest.com
 def_welcomelist_auth *@indeed.com
-def_welcomelist_auth *@docusign.net
-def_welcomelist_auth *@*.docusign.com
 
 # Senders consistently scoring low with advanced tuned SA to help default SA configurations.
 #
@@ -1074,8 +1072,6 @@ def_whitelist_auth *@visapayablesautomation.com
 def_whitelist_auth *@visadpsmessage.com
 def_whitelist_auth *@*.pinterest.com
 def_whitelist_auth *@indeed.com
-def_whitelist_auth *@docusign.net
-def_whitelist_auth *@*.docusign.com
 
 # Senders consistently scoring low with advanced tuned SA to help default SA configurations.
 #
