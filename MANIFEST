@@ -51,6 +51,7 @@ lib/Mail/SpamAssassin/Dns.pm
 lib/Mail/SpamAssassin/DnsResolver.pm
 lib/Mail/SpamAssassin/GeoDB.pm
 lib/Mail/SpamAssassin/HTML.pm
+lib/Mail/SpamAssassin/HTML/Color.pm
 lib/Mail/SpamAssassin/Locales.pm
 lib/Mail/SpamAssassin/Locker.pm
 lib/Mail/SpamAssassin/Locker/Flock.pm
